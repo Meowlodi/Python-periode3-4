@@ -1,0 +1,25 @@
+Interactief Spelmenu - README
+
+Dit interactieve spelmenu biedt twee leuke spellen aan: een quizspel en een nummergebaseerd gokspel. Hieronder vind je een korte uitleg van elk spel:
+
+Quizspel:
+Het quizspel stelt je 8 vragen waarbij je het juiste antwoord moet raden. Als je het goed hebt, krijg je een complimentje! Aan het einde van het spel vertellen we je hoeveel vragen je correct hebt beantwoord.
+
+Nummergebaseerd Gokspel:
+Bij het nummergebaseerde gokspel moet je raden welk getal we in gedachten hebben tussen 1 en 100. Als je het verkeerd hebt, geven we je een hint of het geraden getal te hoog of te laag is. We vertellen je ook hoeveel pogingen je nodig had om het juiste getal te raden.
+
+Hoe te spelen:
+Start het spelmenu door het Python-bestand main.py uit te voeren.
+Kies uit de opties welk spel je wilt spelen door het bijbehorende nummer in te voeren.
+Volg de instructies op het scherm om het gekozen spel te spelen.
+Na het spelen van een spel, heb je de mogelijkheid om een ander spel te spelen of te stoppen.
+Vereisten:
+Python 3.x moet geïnstalleerd zijn op je computer.
+Hoe te installeren:
+Download de bestanden van dit project naar je computer.
+Open een terminalvenster en navigeer naar de map waarin de gedownloade bestanden zich bevinden.
+Voer het commando python main.py uit om het spelmenu te starten.
+Opmerking:
+Als je eenmaal begint met een spel, volg dan de instructies op het scherm en geniet van het spelplezier!
+Als je wilt stoppen met spelen, volg dan de instructies om het spelmenu te verlaten.
+Veel plezier met spelen!
